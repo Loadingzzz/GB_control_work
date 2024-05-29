@@ -19,3 +19,5 @@
 Блок схема представлена по пути `sheme/control_work_sheme.drawio`
 
 Алгоритм решения задачи представлен по файле `Program.cs`
+
+Ссылка на [репозиторий](https://github.com/Loadingzzz/GB_control_work)
